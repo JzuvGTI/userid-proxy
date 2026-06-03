@@ -1,4 +1,7 @@
 autoPullTileUserIds = {
     30274,  -- User ID 1
-    1233,  -- User ID 2
+    366859,
+    974496,
+    2,
+    999999,
 }
